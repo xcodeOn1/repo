@@ -1,10 +1,10 @@
-Package: com.nablac0d3.sslkillswitch2
+Package: com.xcode0x.sslkillswitch2.deb
 Version: 0.14
 Architecture: iphoneos-arm
-Maintainer: x7mii	
+Maintainer: julioverne, Alban Diquet	
 Depends:  mobilesubstrate
-Conflicts: com.nablac0d3.sslkillswitch2	
-Filename: debs/com.nablac0d3.sslkillswitch2_0.14.deb	
+Conflicts: com.xcode0x.sslkillswitch2
+Filename: debs/com.xcode0x.sslkillswitch2.deb	
 Size: 7392	
 MD5sum: 41ebada26cdb598d0072594208d14921	
 SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc	
