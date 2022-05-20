@@ -1,0 +1,7 @@
+Origin: Xcode0x
+Label: xcode0x 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: xcode0x repo 
