@@ -1,0 +1,14 @@
+Package: com.julioverne.sslkillswitch2
+Version: 0.14
+Architecture: iphoneos-arm
+Maintainer: julioverne, Alban Diquet	
+Depends:  mobilesubstrate
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: debs/com.julioverne.sslkillswitch2_0.14c_iphoneos-arm.deb
+Size: 39096	
+MD5sum: 1e02e476bbda0d897f9626d582a97ee1	
+SHA1: f75137de882befe7b3a4d5f66a95565869fa6bde	
+SHA256: 4afc9a1748140dee6c1347c445a7ca971b8f78eac5b8ecd71f7444cf5097a067	
+Section: Pentesting IOS Tweaks	
+Depiction: Blackbox tool to disable SSL certificate validation and pinning
+Name: SSL SWITCH KILL 2
