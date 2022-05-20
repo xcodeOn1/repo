@@ -1,0 +1,14 @@
+Package: com.xcode0x.sslkillswitch2.deb
+Version: 0.14
+Architecture: iphoneos-arm
+Maintainer: julioverne, Alban Diquet	
+Depends:  mobilesubstrate
+Conflicts: com.xcode0x.sslkillswitch2
+Filename: debs/com.xcode0x.sslkillswitch2.deb	
+Size: 7392	
+MD5sum: 41ebada26cdb598d0072594208d14921	
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc	
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8	
+Section: Pentesting Ios Tweaks	
+Depiction: Blackbox tool to disable SSL certificate validation and pinning
+Name: SSL SWITCH KILL 2
