@@ -1,0 +1,40 @@
+Package: com.cokepokes.appstoreplusplus
+Architecture: iphoneos-arm
+Version: 0.9.18
+Priority: optional
+Section: Tweaks
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Filename: ./debians/com.cokepokes.appstoreplusplus_0.9.18_iphoneos-arm.deb
+Size: 3706724
+MD5sum: a842ea1120891c11710c6b22012d1e1e
+SHA1: 36fc296d0d732fcd9e6704e9dd3ed67f9ff4a474
+SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec
+SHA512: 791c7b21e8feeed3a6221d5d6fe2219ba4597ffb0de533dc23757c0fdea882e9bc9920567dacf844e532534205ff411b3a2030b16afc878f3c7cdb289f14c18f
+Homepage:
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Name: AppStore++
+Author: CokePokes
+dev:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon:
+
+Package: com.nablac0d3.sslkillswitch2
+Architecture: iphoneos-arm
+Version: 0.14-3+debug
+Section: Tweaks
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
+SHA512: 570a1d10f82b21cfd38ae63838ee39e8f77e00d8a2bcad06de6a2c1d16acbca48e23b1eb130bd1476f7e9e609bdbade0b753ec288b240783b9380e460d7ed0db
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Name: SSL Kill Switch 2
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+
