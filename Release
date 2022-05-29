@@ -1,7 +1,0 @@
-Origin: Xcode0x Repo
-Label: Xcode0x 
-Suite: stable
-Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Description: All tweaks use in IOS Pentesting & more ..
