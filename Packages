@@ -1,0 +1,74 @@
+Package: com.cokepokes.appstoreplusplus
+Architecture: iphoneos-arm
+Version: 0.9.18
+Priority: optional
+Section: Pentesting-tweaks
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Filename: ./debians/com.cokepokes.appstoreplusplus_0.9.18_iphoneos-arm.deb
+Size: 3696030
+MD5sum: b012841cb2003a0dedb1c2fab20728fd
+SHA1: 0d9600907e84bffa26bca4ff3cf7b53520683111
+SHA256: 7256a4e213607bb5c3e2bfb8d7ce66dd788e3977ad43ed9869664fc03bc4438e
+SHA512: e2b22477102ac51923aeb269ecafaa4ca39155a7ed9dd066c55e514254de09d3828d70fea37c4ffb6d2d7b91aa0095c0258a9b3480d12bfd1de9fad0f33f94bf
+Homepage:
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Name: AppStore++
+Author: CokePokes
+dev:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon:
+
+Package: com.fouadraheb.appdata
+Architecture: iphoneos-arm
+Version: 1.3.6
+Section: Pentesting-tweaks
+Maintainer: DarkApp
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debians/com.fouadraheb.appdata_1.3.6_iphoneos-arm.deb
+Size: 269316
+MD5sum: 95331bb9a39ac87eda4a78e99d455f13
+SHA1: ec93f961b36118361270df8b7756df030438665b
+SHA256: 54e4b00a76650a8a3fc5c3c3f58c47217452194d0b35e6ef72bb1520023c3b3e
+SHA512: cada88ba4228d7c74c7c8eaacff50f7b3662901aba6d9297ce9a15019f6dabb446377a762ffd414c5f95b5ff4ec11a5dfbf745820e7813593c8c8388ae6d85dc
+SileoDepiction: https://sa3odka.x7mii.vip/sileo.php?pid=883
+Name: AppData
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
+Package: com.nablac0d3.sslkillswitch2
+Architecture: iphoneos-arm
+Version: 0.14-3+debug
+Section: Pentesting-tweaks
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 8288
+MD5sum: af52880c5a771167116626f7bd4fc71b
+SHA1: 547f57c9f08863818dc63ac99f5e6633fc32f825
+SHA256: c69e3412be385d31ba1a3bfce7663da2844ceaa7594b0ff77c122b8d90808efd
+SHA512: 72f2728096b69ab20a5e9af0276faca5fe4458c4f475652e89f1d95d698dd8c5f2434ced45fa47decd25408167b65ee26a9bb22b67c76bc5db419389b459ddf0
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Name: SSL Kill Switch 2
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+
+Package: xcode0xrepo.crackerxi
+Architecture: iphoneos-arm
+Version: 1.1.16
+Section: Pentesting-tweaks
+Maintainer: xcode0x > Twitter:@xcode0x
+Depends: firmware (>= 11.0)
+Filename: ./debians/xcodeox.repo.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9960842
+MD5sum: 64b448c087f04ccf0c50d3c196180007
+SHA1: 4b5ff928dd23ab1aa48c8ff57181c59e50d2e002
+SHA256: 5a9ed1d6125f400cc8eabee38db867ceaead96f3701e0fd40bb89703d92a0556
+SHA512: b5987794279953433d6f392482c7f3c336944db524915c394ae64796f9ffa60ff06055e18dfd6cd0f838f9de56d5ae53e0ec37e8dfc4311259ad0ef2f40aa91f
+Name: CrackerXI+
+Author: Xcode0x
+Sponsor: Xcode0x
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
