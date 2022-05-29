@@ -55,11 +55,11 @@ Description: Blackbox tool to disable SSL certificate validation - including cer
 Name: SSL Kill Switch 2
 Author: Alban Diquet <nabla.c0d3@gmail.com>
 
-Package: vip.sa3odka.crackerxi
+Package: xcode0xrepo.crackerxi
 Architecture: iphoneos-arm
 Version: 1.1.16
 Section: Tweaks
-Maintainer: Sa3odka <sa3odka@hotmail.com>
+Maintainer: Xcode0x <Twitter: @xcode0x>
 Depends: firmware (>= 11.0)
 Filename: ./debians/xcodeox.repo.crackerxi_1.1.16_iphoneos-arm.deb
 Size: 9960910
@@ -69,7 +69,7 @@ SHA256: 32e3707bc29cc6652c778c5454e05053e6f6581bd2046a1c968e7e4ecf1ea3f0
 SHA512: ba27fa9633bc05206808257b521c825cb3ab33dff67fc06b512ed664ae4df1ccc43f97fc8f6c894886fa50d97738a81bf86a1a1584877802d89a1c3744f63959
 SileoDepiction: https://sa3odka.x7mii.vip/sileo.php?pid=540
 Name: CrackerXI+
-Author: Sa3odka <sa3odka@hotmail.com>
-Sponsor: Sa3odka <Sa3odka Repo>
+Author: Xcode0x
+Sponsor: Xcode0x Repo 
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
