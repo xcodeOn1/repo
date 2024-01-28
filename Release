@@ -1,7 +1,37 @@
-Origin: Xcode0x Repo
-Label: Xcode0x 
+Architectures: iphoneos-arm
+Codename: CODENAME_HERE
+Components: main
+Date: Sun, 28 Jan 2024 02:26:15 +0000
+Description: DESCRIPTION_HERE
+Label: LABEL_HERE
+Origin: ORIGIN_HERE
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm
-Components: main
-Description: All tweaks use in IOS Pentesting & more ..
+MD5Sum:
+ 72020f4e87a92bfd4883c02ce4947f70             2385 Packages
+ 7d4f2364bfa4e77ece0fd29974832014             1377 Packages.bz2
+ a866940a8b86bab6bceaefe85289ebef             1268 Packages.gz
+ 96541ab5a129f4e98788b9a2b93a9f5c             1336 Packages.xz
+ 96fdc10cf555a762694950986808aed5             1269 Packages.zst
+ 8615cdaf60fbbbf41d9416bae3026ea3              202 Release
+SHA1:
+ 0ce0f36002396d936882f41abba8296c23e0ca22             2385 Packages
+ d6b426a82833fd21c4069d1524830fe952e03794             1377 Packages.bz2
+ ce92d16883a452f7ab61aafdcb1b0f400d1596a8             1268 Packages.gz
+ f52673be29a44cb537524ef5ceae468ef403f1aa             1336 Packages.xz
+ d999fc85a761bdad48233a474c47c5103ee821cd             1269 Packages.zst
+ 7b5f0d15e9ed408549edee5dea602944ada49d2b              202 Release
+SHA256:
+ d953f41179b1e956acf4fe04c5f42ab9e2c66adfb37440a47c7b289834808831             2385 Packages
+ 94219727d8db8ca7c21752b216939eab55c18ab4aae5255776b7ddee15dfdd3b             1377 Packages.bz2
+ 707d5348972daf8f73539f371178dbcf58923f95989ff20b5b9edac12067f81d             1268 Packages.gz
+ 9ea6d6346e685c6fd7ed38b583fa144c4b46eb7daddc43ff66ec6bcc6459878a             1336 Packages.xz
+ 2de0f40f72f4811ff7f65c217cd1db497b29bd4fbf1b1415c388c7e098b98c6f             1269 Packages.zst
+ c9c3f959fe121c31d5ae5c4b9cfc901511288e3a5cbad2269e5c78c32c34a9ea              202 Release
+SHA512:
+ b258216e344d85ccf7a2f7b55834e692a5dc7c687f4d37ed1bdafbd3b128b1153458c836e7a2ca5add15084723c944711d6fcf6399874c41b9b9dc4a24897d6b             2385 Packages
+ 08766233ee90e55716bfb4ba60648e3c0c9f71e4cb30bc01d529d9853f1c2642c3e0a40f952aadfba778f7c403cae78f74375f494ed5e97a26badf0c882d7618             1377 Packages.bz2
+ dfafbef703f09265671141082123d3125f00626597339ce175b180bd827c9951149a9dda3531761e68f2c8c79b32488c56af310603aac26c0b9563efc0ccddeb             1268 Packages.gz
+ a0c199e46124ea5caca35f7508f9181cade29c5a824dd459091746a3c162fbf85b3559841098da32a999f6af0147466718a49f33dce11cc9cecc419bba7bf27c             1336 Packages.xz
+ 7f571beb5ede8bec9409b6f51aa9e4d6d3ba36e2bf9948a88d90056d9fe58e08b6f5d029892a795b0153111a0d6aa4e1c652a954c593b7dea8646b44037a014d             1269 Packages.zst
+ 7a20c2a95e5ced195cb1c76730c20954a35f3c09675362330680bb07bda93796bc74bc0936a96482659771a76ffa4fc26d957d98836d2a73da839b2217e968e9              202 Release
